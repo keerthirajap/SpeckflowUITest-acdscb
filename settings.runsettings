@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <SpecRun>
+    <Profile>default.srprofile</Profile>
+    <GenerateSpecRunTrait>true</GenerateSpecRunTrait>
+    <GenerateFeatureTrait>true</GenerateFeatureTrait>
+  </SpecRun>
+</RunSettings>
